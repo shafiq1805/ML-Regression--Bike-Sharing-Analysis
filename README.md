@@ -8,6 +8,9 @@ This repository dives deep into bike sharing data to understand how weather, tim
 Key features:
 
 Explore data visually to uncover hidden patterns and trends.
+
 Test hypotheses to determine how factors like temperature and holidays impact rentals.
+
 Train and evaluate multiple regression models to predict rentals with precision.
+
 Measure model performance using MAE, MSE, RMSE, and R-squared.

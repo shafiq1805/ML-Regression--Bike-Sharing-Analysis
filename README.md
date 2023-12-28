@@ -9,7 +9,9 @@ This repository dives deep into bike sharing data to understand how weather, tim
 Cities worldwide are increasingly adopting bike sharing for sustainable transportation. Efficiently managing bike availability is crucial for service providers. This project presents a machine learning model that accurately forecasts bike rental demand, aiding in operational optimization.
 
 **Project Highlights**
+
 **Objective:** Predict the number of bike rentals for any given time period.
+
 
 **Benefits:** Optimize bike availability, improve user experience, and enhance resource efficiency for bike-sharing service providers.
 
